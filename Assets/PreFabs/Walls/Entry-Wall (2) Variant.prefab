@@ -9,19 +9,31 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 418621167, guid: 1e114233945fe1246a6b82e108055367, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1589868518, guid: 1e114233945fe1246a6b82e108055367, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4816708404773622217, guid: 1e114233945fe1246a6b82e108055367, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5162884027448713218, guid: 1e114233945fe1246a6b82e108055367, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5162884027448713229, guid: 1e114233945fe1246a6b82e108055367, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 6.8870845
+      objectReference: {fileID: 0}
+    - target: {fileID: 5162884027448713229, guid: 1e114233945fe1246a6b82e108055367, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.858
+      objectReference: {fileID: 0}
+    - target: {fileID: 5162884027448713229, guid: 1e114233945fe1246a6b82e108055367, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -9.8625
       objectReference: {fileID: 0}
     - target: {fileID: 5162884028338905834, guid: 1e114233945fe1246a6b82e108055367, type: 3}
       propertyPath: m_RootOrder
@@ -29,7 +41,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5162884028338905834, guid: 1e114233945fe1246a6b82e108055367, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.00000873953
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5162884028338905834, guid: 1e114233945fe1246a6b82e108055367, type: 3}
       propertyPath: m_LocalPosition.y
@@ -70,6 +82,22 @@ PrefabInstance:
     - target: {fileID: 5162884028338905835, guid: 1e114233945fe1246a6b82e108055367, type: 3}
       propertyPath: m_Name
       value: Entry-Wall (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8395619133650985946, guid: 1e114233945fe1246a6b82e108055367, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 6.8870845
+      objectReference: {fileID: 0}
+    - target: {fileID: 8395619133650985946, guid: 1e114233945fe1246a6b82e108055367, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.589
+      objectReference: {fileID: 0}
+    - target: {fileID: 8395619133650985946, guid: 1e114233945fe1246a6b82e108055367, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.858
+      objectReference: {fileID: 0}
+    - target: {fileID: 8395619133650985946, guid: 1e114233945fe1246a6b82e108055367, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -9.8625
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1e114233945fe1246a6b82e108055367, type: 3}
